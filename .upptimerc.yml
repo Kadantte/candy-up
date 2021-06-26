@@ -33,7 +33,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://kadantte.moe/assets/img/candy.png
   name: Candy Status
-  introTitle: "**Kadantte Status**"
+  introTitle: "**Candy Status**"
   introMessage: Status page which uses **real-time** data.
   navbar:
     - title: Status
