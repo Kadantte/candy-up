@@ -94,18 +94,20 @@
     "url": "https://ohys-api-v2.usui.moe/schedule?day=sun",
     "icon": "https://favicons.githubusercontent.com/ohys-api-v2.usui.moe",
     "slug": "ohys-api",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 745,
-    "timeDay": 830,
-    "timeWeek": 745,
-    "timeMonth": 745,
-    "timeYear": 745,
-    "dailyMinutesDown": {}
+    "time": 1640,
+    "timeDay": 4815,
+    "timeWeek": 1640,
+    "timeMonth": 1640,
+    "timeYear": 1640,
+    "dailyMinutesDown": {
+      "2021-07-01": 0
+    }
   },
   {
     "name": "nHentai API",
