@@ -94,19 +94,19 @@
     "url": "https://ohys-api-v2.usui.moe/schedule?day=sun",
     "icon": "https://favicons.githubusercontent.com/ohys-api-v2.usui.moe",
     "slug": "ohys-api",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1248,
-    "timeDay": 791,
-    "timeWeek": 1585,
-    "timeMonth": 1248,
-    "timeYear": 1248,
+    "status": "up",
+    "uptime": "99.74%",
+    "uptimeDay": "97.28%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.74%",
+    "uptimeYear": "99.74%",
+    "time": 1220,
+    "timeDay": 796,
+    "timeWeek": 1507,
+    "timeMonth": 1220,
+    "timeYear": 1220,
     "dailyMinutesDown": {
-      "2021-07-06": 0
+      "2021-07-06": 39
     }
   },
   {
