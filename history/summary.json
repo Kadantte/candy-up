@@ -101,11 +101,11 @@
     "icon": "https://favicons.githubusercontent.com/ohys-api-v2.usui.moe",
     "slug": "ohys-api",
     "status": "up",
-    "uptime": "99.05%",
+    "uptime": "99.06%",
     "uptimeDay": "98.21%",
     "uptimeWeek": "99.56%",
     "uptimeMonth": "98.77%",
-    "uptimeYear": "99.05%",
+    "uptimeYear": "99.06%",
     "time": 1649,
     "timeDay": 1936,
     "timeWeek": 1466,
@@ -153,10 +153,10 @@
     "url": "https://cdn-1.hinachan.ga",
     "icon": "https://favicons.githubusercontent.com/cdn-1.hinachan.ga",
     "slug": "n-hentai-cdn-eu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 530,
@@ -164,17 +164,19 @@
     "timeWeek": 587,
     "timeMonth": 563,
     "timeYear": 530,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 1
+    }
   },
   {
     "name": "nHentai CDN-NA",
     "url": "https://cdn-2.hinachan.ga",
     "icon": "https://favicons.githubusercontent.com/cdn-2.hinachan.ga",
     "slug": "n-hentai-cdn-na",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 426,
@@ -182,16 +184,18 @@
     "timeWeek": 480,
     "timeMonth": 487,
     "timeYear": 426,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 1
+    }
   },
   {
     "name": "nHentai CDN-ASIA",
     "url": "https://cdn-3.hinachan.ga",
     "icon": "https://favicons.githubusercontent.com/cdn-3.hinachan.ga",
     "slug": "n-hentai-cdn-asia",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -200,7 +204,9 @@
     "timeWeek": 472,
     "timeMonth": 518,
     "timeYear": 445,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-08-15": 0
+    }
   },
   {
     "name": "Li Da Server",
