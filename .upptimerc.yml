@@ -18,11 +18,11 @@ sites:
   - name: nHentai API
     url: https://nh.usui.moe
   - name: nHentai CDN-EU
-    url: https://cdn-1.hinachan.ga
+    url: https://eu.nhcdn.ga
   - name: nHentai CDN-NA
-    url: https://cdn-2.hinachan.ga
+    url: https://na.nhcdn.ga
   - name: nHentai CDN-ASIA
-    url: https://cdn-3.hinachan.ga
+    url: https://asia.nhcdn.ga
   - name: Li Da Server
     url: https://me.kadantte.moe
 
