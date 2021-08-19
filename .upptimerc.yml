@@ -17,6 +17,8 @@ sites:
     url: https://ohys-api-v2.usui.moe/schedule?day=sun
   - name: nHentai API
     url: https://nh.usui.moe
+  - name: nHentai CDN
+    url: https://nhcdn.ga
   - name: nHentai CDN-EU
     url: https://eu.nhcdn.ga
   - name: nHentai CDN-NA
