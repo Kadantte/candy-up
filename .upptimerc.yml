@@ -13,6 +13,8 @@ sites:
     url: https://list.kadantte.moe/?type=manga
   - name: Uzaki Chan
     url: https://uzaki-chan.kadantte.repl.co
+  - name: Yui
+    url: https://Yui.kadantte.repl.co
   - name: Ohys API
     url: https://ohys-api-v2.usui.moe/schedule?day=sun
   - name: nHentai API
