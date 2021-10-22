@@ -73,7 +73,7 @@
     "timeMonth": 192,
     "timeYear": 192,
     "dailyMinutesDown": {
-      "2021-10-22": 4
+      "2021-10-22": 34
     }
   },
   {
@@ -149,17 +149,17 @@
     "url": "https://Yui.kadantte.repl.co",
     "icon": "https://favicons.githubusercontent.com/yui.kadantte.repl.co",
     "slug": "yui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.06%",
-    "uptimeDay": "94.41%",
+    "uptimeDay": "94.39%",
     "uptimeWeek": "99.06%",
     "uptimeMonth": "99.06%",
     "uptimeYear": "99.06%",
-    "time": 849,
-    "timeDay": 1405,
-    "timeWeek": 849,
-    "timeMonth": 849,
-    "timeYear": 849,
+    "time": 797,
+    "timeDay": 1245,
+    "timeWeek": 797,
+    "timeMonth": 797,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2021-10-22": 81
     }
@@ -263,11 +263,11 @@
     "icon": "https://favicons.githubusercontent.com/eu.nhcdn.ga",
     "slug": "n-hentai-cdn-eu",
     "status": "up",
-    "uptime": "96.24%",
+    "uptime": "96.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.24%",
+    "uptimeYear": "96.25%",
     "time": 613,
     "timeDay": 338,
     "timeWeek": 491,
