@@ -52,7 +52,7 @@
     "time": 1830,
     "timeDay": 1700,
     "timeWeek": 1499,
-    "timeMonth": 1882,
+    "timeMonth": 1910,
     "timeYear": 1830,
     "dailyMinutesDown": {
       "2021-10-16": 18,
@@ -75,7 +75,7 @@
     "time": 1046,
     "timeDay": 1133,
     "timeWeek": 894,
-    "timeMonth": 1162,
+    "timeMonth": 1142,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2021-10-16": 16,
@@ -111,17 +111,17 @@
     "url": "https://Yui.kadantte.repl.co",
     "icon": "https://favicons.githubusercontent.com/yui.kadantte.repl.co",
     "slug": "yui",
-    "status": "up",
+    "status": "down",
     "uptime": "99.35%",
-    "uptimeDay": "96.19%",
+    "uptimeDay": "96.17%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.35%",
     "uptimeYear": "99.35%",
-    "time": 1120,
-    "timeDay": 2959,
-    "timeWeek": 1120,
-    "timeMonth": 1120,
-    "timeYear": 1120,
+    "time": 1027,
+    "timeDay": 2268,
+    "timeWeek": 1027,
+    "timeMonth": 1027,
+    "timeYear": 1027,
     "dailyMinutesDown": {
       "2021-10-22": 55
     }
