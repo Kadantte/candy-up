@@ -29,8 +29,8 @@ sites:
     url: https://eu.nhcdn.ga
   - name: nHentai CDN-NA
     url: https://na.nhcdn.ga
-  - name: nHentai CDN-ASIA
-    url: https://asia.nhcdn.ga
+  #- name: nHentai CDN-ASIA
+  #  url: https://asia.nhcdn.ga
   - name: Li Da Server
     url: https://me.kadantte.moe
 
