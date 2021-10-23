@@ -43,19 +43,19 @@
     "url": "https://LiDa.kadantte.repl.co",
     "icon": "https://favicons.githubusercontent.com/lida.kadantte.repl.co",
     "slug": "li-da-3",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 232,
-    "timeDay": 190,
-    "timeWeek": 232,
-    "timeMonth": 232,
-    "timeYear": 232,
+    "status": "up",
+    "uptime": "98.84%",
+    "uptimeDay": "98.82%",
+    "uptimeWeek": "98.84%",
+    "uptimeMonth": "98.84%",
+    "uptimeYear": "98.84%",
+    "time": 224,
+    "timeDay": 194,
+    "timeWeek": 224,
+    "timeMonth": 224,
+    "timeYear": 224,
     "dailyMinutesDown": {
-      "2021-10-23": 0
+      "2021-10-23": 17
     }
   },
   {
@@ -75,7 +75,7 @@
     "timeMonth": 173,
     "timeYear": 173,
     "dailyMinutesDown": {
-      "2021-10-23": 1339,
+      "2021-10-23": 1356,
       "2021-10-22": 116
     }
   },
@@ -153,18 +153,18 @@
     "icon": "https://favicons.githubusercontent.com/yui.kadantte.repl.co",
     "slug": "yui",
     "status": "down",
-    "uptime": "91.50%",
-    "uptimeDay": "46.61%",
-    "uptimeWeek": "91.50%",
-    "uptimeMonth": "91.50%",
-    "uptimeYear": "91.50%",
+    "uptime": "91.35%",
+    "uptimeDay": "45.44%",
+    "uptimeWeek": "91.35%",
+    "uptimeMonth": "91.35%",
+    "uptimeYear": "91.35%",
     "time": 1115,
     "timeDay": 1981,
     "timeWeek": 1115,
     "timeMonth": 1115,
     "timeYear": 1115,
     "dailyMinutesDown": {
-      "2021-10-23": 687,
+      "2021-10-23": 704,
       "2021-10-22": 163
     }
   },
