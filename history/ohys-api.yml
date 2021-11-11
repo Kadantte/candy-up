@@ -1,7 +1,7 @@
 url: https://ohys-api-v2.usui.moe/schedule?day=sun
-status: down
-code: 500
-responseTime: 15542
-lastUpdated: 2021-11-11T14:20:44.009Z
+status: up
+code: 200
+responseTime: 674
+lastUpdated: 2021-11-11T14:33:57.723Z
 startTime: Sat Jun 26 2021 01:44:42 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
