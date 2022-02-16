@@ -17,8 +17,6 @@ sites:
     url: https://list.kadantte.moe/?type=manga
   - name: Anime Chan
     url: https://uzaki-chan.kadantte.repl.co
-  - name: Inside ShareX Services
-    url: https://inside.kadantte.moe
   - name: Ohys API
     url: https://ohys-api-v2.usui.moe/schedule?day=sun
   - name: nHentai API
