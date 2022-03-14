@@ -5,8 +5,8 @@ repo: candy-up # The name of this repository
 sites:
   - name: Kadantte
     url: https://kadantte.moe
-# - name: Usui
-#   url: https://usui.moe
+  # - name: Usui
+  #   url: https://usui.moe
   - name: LiDa <3
     url: https://LiDa.kadantte.repl.co
   - name: Lavalink
@@ -17,9 +17,9 @@ sites:
     url: https://list.kadantte.moe/?type=manga
   - name: AnimeChan
     url: https://anichan.kadantte.moe
- # - name: Ohys API
+ #  - name: Ohys API
  #    url: https://ohys-api-v2.usui.moe/schedule?day=sun
- # - name: nHentai API
+ #  - name: nHentai API
  #    url: https://nh.usui.moe
  # - name: nHentai CDN
  #   url: https://nhcdn.ga
@@ -29,7 +29,7 @@ sites:
  #   url: https://na.nhcdn.ga
  # - name: nHentai CDN-ASIA
  #   url: https://asia.nhcdn.ga
-   - name: Li Da Server
+  - name: Li Da Server
     url: https://me.kadantte.moe
 
 status-website:
