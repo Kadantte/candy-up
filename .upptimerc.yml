@@ -15,7 +15,7 @@ sites:
     url: https://list.kadantte.moe
   - name: Manga List
     url: https://list.kadantte.moe/?type=manga
-  - name: Anime Chan
+  - name: AnimeChan
     url: https://anichan.kadantte.moe
  #  - name: Ohys API
  #    url: https://ohys-api-v2.usui.moe/schedule?day=sun
