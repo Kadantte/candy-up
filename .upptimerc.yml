@@ -12,7 +12,7 @@ sites:
   - name: Lavalink
     url: https://lidalavalink.kadantte.repl.co/metrics
   - name: Anime List
-    url: https://list.kadantte.moe
+    url: https://list.kadantte.moes
   - name: Manga List
     url: https://list.kadantte.moe/?type=manga
   - name: AnimeChan
