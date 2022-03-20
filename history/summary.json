@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/cdn.why-inside.me",
     "slug": "why-inside-me",
     "status": "up",
-    "uptime": "3.95%",
-    "uptimeDay": "3.95%",
-    "uptimeWeek": "3.95%",
-    "uptimeMonth": "3.95%",
-    "uptimeYear": "3.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 639,
     "timeDay": 639,
     "timeWeek": 639,
     "timeMonth": 639,
     "timeYear": 639,
-    "dailyMinutesDown": {
-      "2022-03-20": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "LiDa <3",
