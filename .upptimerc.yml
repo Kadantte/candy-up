@@ -5,8 +5,8 @@ repo: candy-up # The name of this repository
 sites:
   - name: Kadantte
     url: https://kadantte.moe
-  # - name: Usui
-  #   url: https://usui.moe
+  - name: Why-inside.me
+     url: https://why-inside.me
   - name: LiDa <3
     url: https://LiDa.kadantte.repl.co
   - name: Lavalink
