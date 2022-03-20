@@ -6,7 +6,7 @@ sites:
   - name: Kadantte
     url: https://kadantte.moe
   - name: Why-inside.me
-     url: https://why-inside.me
+    url: https://why-inside.me
   - name: LiDa <3
     url: https://LiDa.kadantte.repl.co
   - name: Lavalink
