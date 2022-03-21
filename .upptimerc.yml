@@ -7,6 +7,8 @@ sites:
     url: https://kadantte.moe
   - name: Why-inside.me
     url: https://cdn.why-inside.me/c850ba698a4f459f17eacfcf5303e6f7.gif
+  - name: Pi-Hole
+    url: https://watachi.ga/admin/api.php?getCacheInfo
   - name: LiDa <3
     url: https://LiDa.kadantte.repl.co
   - name: Lavalink
@@ -17,8 +19,6 @@ sites:
     url: https://list.kadantte.moe/?type=manga
   - name: AnimeChan
     url: https://anichan.kadantte.moe
- #  - name: Ohys API
- #    url: https://ohys-api-v2.usui.moe/schedule?day=sun
  #  - name: nHentai API
  #    url: https://nh.usui.moe
  # - name: nHentai CDN
