@@ -1,7 +1,7 @@
 url: https://watachi.ga/admin/api.php?getCacheInfo
-status: up
-code: 200
-responseTime: 152
-lastUpdated: 2022-03-26T23:14:28.568Z
+status: down
+code: 0
+responseTime: 0
+lastUpdated: 2022-03-27T17:37:42.224Z
 startTime: Mon Mar 21 2022 22:41:33 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
