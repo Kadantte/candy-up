@@ -263,18 +263,18 @@
     "icon": "https://favicons.githubusercontent.com/170.187.186.202",
     "slug": "steve",
     "status": "down",
-    "uptime": "4.77%",
-    "uptimeDay": "4.77%",
-    "uptimeWeek": "4.77%",
-    "uptimeMonth": "4.77%",
-    "uptimeYear": "4.77%",
+    "uptime": "1.52%",
+    "uptimeDay": "1.52%",
+    "uptimeWeek": "1.52%",
+    "uptimeMonth": "1.52%",
+    "uptimeYear": "1.52%",
     "time": 375,
     "timeDay": 375,
     "timeWeek": 375,
     "timeMonth": 375,
     "timeYear": 375,
     "dailyMinutesDown": {
-      "2022-04-04": 0
+      "2022-04-04": 1
     }
   }
 ]
