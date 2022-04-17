@@ -23,18 +23,18 @@
     "icon": "https://favicons.githubusercontent.com/cdn.why-inside.me",
     "slug": "why-inside-me",
     "status": "down",
-    "uptime": "98.93%",
-    "uptimeDay": "69.74%",
-    "uptimeWeek": "95.68%",
-    "uptimeMonth": "98.93%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.90%",
+    "uptimeDay": "68.92%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
     "time": 522,
     "timeDay": 534,
     "timeWeek": 687,
     "timeMonth": 522,
     "timeYear": 522,
     "dailyMinutesDown": {
-      "2022-04-17": 436
+      "2022-04-17": 448
     }
   },
   {
@@ -94,9 +94,9 @@
     "url": "https://lidalavalink.kadantte.repl.co/metrics",
     "icon": "https://favicons.githubusercontent.com/lidalavalink.kadantte.repl.co",
     "slug": "lavalink",
-    "status": "up",
+    "status": "down",
     "uptime": "85.14%",
-    "uptimeDay": "93.52%",
+    "uptimeDay": "93.51%",
     "uptimeWeek": "98.09%",
     "uptimeMonth": "98.67%",
     "uptimeYear": "85.14%",
