@@ -29,8 +29,6 @@ sites:
  #   url: https://asia.nhcdn.ga
   - name: Li Da Server
     url: https://me.kadantte.moe
-  - name: Ev-Supervision
-    url: https://evsupervision.com/evsupervision/manager/signin
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
