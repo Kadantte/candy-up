@@ -5,8 +5,8 @@ repo: candy-up # The name of this repository
 sites:
   - name: Kadantte
     url: https://kadantte.moe
-  - name: Why-inside.me
-    url: https://s1.why-inside.me/u/y8A3ka.png
+#  - name: Why-inside.me
+#    url: https://s1.why-inside.me/u/y8A3ka.png
 #  - name: LiDa <3
 #    url: https://LiDa.kadantte.repl.co
 #  - name: Lavalink
@@ -15,8 +15,8 @@ sites:
     url: https://list.kadantte.moe
   - name: Manga List
     url: https://list.kadantte.moe/?type=manga
-  - name: AnimeChan
-    url: https://anichan.kadantte.moe
+ # - name: AnimeChan
+ #   url: https://anichan.kadantte.moe
  #  - name: nHentai API
  #    url: https://nh.usui.moe
  # - name: nHentai CDN
