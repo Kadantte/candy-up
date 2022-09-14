@@ -4,9 +4,9 @@
     "url": "https://kadantte.moe",
     "icon": "https://favicons.githubusercontent.com/kadantte.moe",
     "slug": "kadantte",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 309,
     "timeYear": 263,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-06-21": 18
     }
   },
@@ -73,18 +74,19 @@
     "url": "https://me.kadantte.moe",
     "icon": "https://favicons.githubusercontent.com/me.kadantte.moe",
     "slug": "li-da-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 194,
-    "timeDay": 561,
-    "timeWeek": 218,
-    "timeMonth": 270,
+    "timeDay": 412,
+    "timeWeek": 223,
+    "timeMonth": 269,
     "timeYear": 202,
     "dailyMinutesDown": {
+      "2022-09-14": 0,
       "2022-06-21": 17
     }
   }
