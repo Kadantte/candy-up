@@ -27,8 +27,8 @@ sites:
  #   url: https://na.nhcdn.ga
  # - name: nHentai CDN-ASIA
  #   url: https://asia.nhcdn.ga
-  - name: Li Da Server
-    url: https://me.kadantte.moe
+ # - name: Li Da Server
+ #   url: https://me.kadantte.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
