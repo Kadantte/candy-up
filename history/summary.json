@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 274,
-    "timeDay": 403,
-    "timeWeek": 279,
-    "timeMonth": 288,
-    "timeYear": 266,
-    "dailyMinutesDown": {
-      "2023-08-18": 1255
-    }
+    "timeDay": 186,
+    "timeWeek": 272,
+    "timeMonth": 277,
+    "timeYear": 265,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Anime List",
@@ -31,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1548,
-    "timeDay": 1187,
-    "timeWeek": 2064,
-    "timeMonth": 2212,
-    "timeYear": 1559,
+    "timeDay": 1379,
+    "timeWeek": 1800,
+    "timeMonth": 2205,
+    "timeYear": 1558,
     "dailyMinutesDown": {
       "2024-07-11": 28,
       "2023-09-08": 48,
@@ -45,8 +43,7 @@
       "2023-08-27": 16,
       "2023-08-26": 17,
       "2023-08-25": 73,
-      "2023-08-24": 31,
-      "2023-08-18": 1255
+      "2023-08-24": 31
     }
   },
   {
@@ -60,15 +57,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.75%",
-    "time": 962,
-    "timeDay": 1671,
-    "timeWeek": 1140,
-    "timeMonth": 1256,
+    "time": 963,
+    "timeDay": 1056,
+    "timeWeek": 1115,
+    "timeMonth": 1261,
     "timeYear": 955,
     "dailyMinutesDown": {
       "2024-07-11": 27,
-      "2024-07-07": 19,
-      "2023-08-18": 1255
+      "2024-07-07": 19
     }
   },
   {
@@ -83,12 +79,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 87,
-    "timeDay": 50,
-    "timeWeek": 69,
-    "timeMonth": 81,
+    "timeDay": 34,
+    "timeWeek": 60,
+    "timeMonth": 76,
     "timeYear": 87,
-    "dailyMinutesDown": {
-      "2023-08-18": 1255
-    }
+    "dailyMinutesDown": {}
   }
 ]
