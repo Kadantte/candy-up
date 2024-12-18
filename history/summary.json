@@ -107,19 +107,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cannaflexpharmacie.com.ico",
     "slug": "cannaflex-pharmacie",
     "status": "up",
-    "uptime": "73.55%",
-    "uptimeDay": "73.55%",
-    "uptimeWeek": "73.55%",
-    "uptimeMonth": "73.55%",
-    "uptimeYear": "73.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 588,
     "timeDay": 588,
     "timeWeek": 588,
     "timeMonth": 588,
     "timeYear": 588,
-    "dailyMinutesDown": {
-      "2024-12-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Why-Inside Me CDN",
