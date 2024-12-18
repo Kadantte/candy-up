@@ -17,6 +17,12 @@ sites:
     url: https://list.kadantte.moe/?type=manga
   - name: My Resume
     url: https://kadantte.moe/cv/
+  - name: CANNAFLEX
+    url: https://cannaflex.ma
+  - name: CANNAFLEX-PHARMACIE
+    url: https://cannaflexpharmacie.com
+ # - name: AnimeChan
+ #   url: https://anichan.kadantte.moe
  # - name: AnimeChan
  #   url: https://anichan.kadantte.moe
  #  - name: nHentai API
