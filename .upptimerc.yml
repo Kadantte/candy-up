@@ -20,9 +20,9 @@ sites:
   - name: CANNAFLEX
     url: https://cannaflex.ma
   - name: CANNAFLEX-PHARMACIE
-    url: https://cannaflexpharmacie.comm
- # - name: AnimeChan
- #   url: https://anichan.kadantte.moe
+    url: https://cannaflexpharmacie.com
+  - name: Why-Inside Me CDN
+    url: https://cdn.why-inside.me
  # - name: AnimeChan
  #   url: https://anichan.kadantte.moe
  #  - name: nHentai API
