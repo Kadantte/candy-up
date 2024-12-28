@@ -88,19 +88,19 @@
     "url": "https://cannaflex.ma",
     "icon": "https://icons.duckduckgo.com/ip3/cannaflex.ma.ico",
     "slug": "cannaflex",
-    "status": "up",
-    "uptime": "99.57%",
-    "uptimeDay": "95.88%",
-    "uptimeWeek": "99.41%",
-    "uptimeMonth": "99.57%",
-    "uptimeYear": "99.57%",
+    "status": "down",
+    "uptime": "99.56%",
+    "uptimeDay": "95.76%",
+    "uptimeWeek": "99.39%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
     "time": 1235,
     "timeDay": 2831,
     "timeWeek": 1543,
     "timeMonth": 1235,
     "timeYear": 1235,
     "dailyMinutesDown": {
-      "2024-12-28": 59
+      "2024-12-28": 61
     }
   },
   {
@@ -129,18 +129,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.why-inside.me.ico",
     "slug": "why-inside-me-cdn",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "97.05%",
-    "uptimeWeek": "99.58%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
+    "uptime": "99.53%",
+    "uptimeDay": "95.47%",
+    "uptimeWeek": "99.35%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 867,
     "timeDay": 1877,
     "timeWeek": 977,
     "timeMonth": 867,
     "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-12-28": 42
+      "2024-12-28": 65
     }
   }
 ]
