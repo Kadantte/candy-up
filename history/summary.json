@@ -89,18 +89,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cannaflex.ma.ico",
     "slug": "cannaflex",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.11%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.68%",
+    "uptimeDay": "96.95%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 953,
     "timeDay": 758,
     "timeWeek": 1063,
     "timeMonth": 953,
     "timeYear": 953,
     "dailyMinutesDown": {
-      "2024-12-28": 13
+      "2024-12-28": 44
     }
   },
   {
@@ -109,18 +109,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cannaflexpharmacie.com.ico",
     "slug": "cannaflex-pharmacie",
     "status": "down",
-    "uptime": "99.91%",
-    "uptimeDay": "99.16%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
+    "uptime": "99.68%",
+    "uptimeDay": "96.99%",
+    "uptimeWeek": "99.57%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 1687,
     "timeDay": 5612,
     "timeWeek": 2312,
     "timeMonth": 1687,
     "timeYear": 1687,
     "dailyMinutesDown": {
-      "2024-12-28": 12
+      "2024-12-28": 43
     }
   },
   {
@@ -128,19 +128,19 @@
     "url": "https://cdn.why-inside.me",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.why-inside.me.ico",
     "slug": "why-inside-me-cdn",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 663,
-    "timeDay": 649,
-    "timeWeek": 673,
-    "timeMonth": 663,
-    "timeYear": 663,
+    "status": "up",
+    "uptime": "99.77%",
+    "uptimeDay": "97.84%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.77%",
+    "time": 867,
+    "timeDay": 1877,
+    "timeWeek": 977,
+    "timeMonth": 867,
+    "timeYear": 867,
     "dailyMinutesDown": {
-      "2024-12-28": 0
+      "2024-12-28": 31
     }
   }
 ]
