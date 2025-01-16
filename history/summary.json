@@ -88,10 +88,10 @@
     "url": "https://cannaflex.ma",
     "icon": "https://icons.duckduckgo.com/ip3/cannaflex.ma.ico",
     "slug": "cannaflex",
-    "status": "up",
+    "status": "down",
     "uptime": "98.45%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "98.45%",
     "uptimeYear": "98.45%",
     "time": 1048,
@@ -100,6 +100,7 @@
     "timeMonth": 1048,
     "timeYear": 1048,
     "dailyMinutesDown": {
+      "2025-01-16": 1,
       "2025-01-02": 517,
       "2024-12-28": 117
     }
@@ -109,18 +110,19 @@
     "url": "https://cannaflexpharmacie.com",
     "icon": "https://icons.duckduckgo.com/ip3/cannaflexpharmacie.com.ico",
     "slug": "cannaflex-pharmacie",
-    "status": "up",
-    "uptime": "97.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.88%",
-    "uptimeYear": "97.88%",
-    "time": 1650,
-    "timeDay": 107,
-    "timeWeek": 497,
-    "timeMonth": 1650,
-    "timeYear": 1650,
+    "status": "down",
+    "uptime": "97.89%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "97.89%",
+    "uptimeYear": "97.89%",
+    "time": 1883,
+    "timeDay": 5539,
+    "timeWeek": 1806,
+    "timeMonth": 1883,
+    "timeYear": 1883,
     "dailyMinutesDown": {
+      "2025-01-16": 1,
       "2025-01-02": 772,
       "2024-12-28": 92
     }
@@ -130,9 +132,9 @@
     "url": "https://cdn.why-inside.me",
     "icon": "https://icons.duckduckgo.com/ip3/cdn.why-inside.me.ico",
     "slug": "why-inside-me-cdn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
@@ -142,6 +144,7 @@
     "timeMonth": 737,
     "timeYear": 737,
     "dailyMinutesDown": {
+      "2025-01-16": 0,
       "2024-12-28": 122
     }
   }
