@@ -8,7 +8,7 @@ sites:
 #  - name: LiDa <3
 #    url: https://LiDa.kadantte.repl.co
   - name: Why-inside.me
-   url: https://cdn.why-inside.me
+    url: https://cdn.why-inside.me
   - name: Anime List
     url: https://list.kadantte.moe
   - name: Manga List
@@ -21,20 +21,20 @@ sites:
     url: https://cannaflexpharmacie.com
   - name: Why-Inside Me CDN
     url: https://cdn.why-inside.me
- # - name: AnimeChan
- #   url: https://anichan.kadantte.moe
- #  - name: nHentai API
- #    url: https://nh.usui.moe
- # - name: nHentai CDN
- #   url: https://nhcdn.ga
- # - name: nHentai CDN-EU
- #   url: https://eu.nhcdn.ga
- # - name: nHentai CDN-NA
- #   url: https://na.nhcdn.ga
- # - name: nHentai CDN-ASIA
- #   url: https://asia.nhcdn.ga
- # - name: Li Da Server
- #   url: https://me.kadantte.moe
+#  - name: AnimeChan
+#    url: https://anichan.kadantte.moe
+#  - name: nHentai API
+#    url: https://nh.usui.moe
+#  - name: nHentai CDN
+#    url: https://nhcdn.ga
+#  - name: nHentai CDN-EU
+#    url: https://eu.nhcdn.ga
+#  - name: nHentai CDN-NA
+#    url: https://na.nhcdn.ga
+#  - name: nHentai CDN-ASIA
+#    url: https://asia.nhcdn.ga
+#  - name: Li Da Server
+#    url: https://me.kadantte.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
