@@ -14,7 +14,7 @@
     "timeDay": 325,
     "timeWeek": 295,
     "timeMonth": 295,
-    "timeYear": 286,
+    "timeYear": 283,
     "dailyMinutesDown": {
       "2024-08-18": 315
     }
@@ -52,7 +52,7 @@
     "timeDay": 6857,
     "timeWeek": 6900,
     "timeMonth": 6900,
-    "timeYear": 1881,
+    "timeYear": 1882,
     "dailyMinutesDown": {
       "2025-04-08": 20,
       "2024-10-30": 15,
@@ -75,7 +75,7 @@
     "timeDay": 1502,
     "timeWeek": 1082,
     "timeMonth": 1082,
-    "timeYear": 1078,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2024-08-18": 315,
       "2024-07-11": 27,
@@ -131,11 +131,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cannaflexpharmacie.com.ico",
     "slug": "cannaflex-pharmacie",
     "status": "up",
-    "uptime": "96.95%",
-    "uptimeDay": "0.02%",
+    "uptime": "96.96%",
+    "uptimeDay": "6.03%",
     "uptimeWeek": "64.94%",
     "uptimeMonth": "91.93%",
-    "uptimeYear": "96.95%",
+    "uptimeYear": "96.96%",
     "time": 1455,
     "timeDay": 1786,
     "timeWeek": 1269,
