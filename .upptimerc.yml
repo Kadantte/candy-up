@@ -9,16 +9,16 @@ sites:
 #    url: https://LiDa.kadantte.repl.co
   - name: Why-inside.me
     url: https://cdn.why-inside.me
-  - name: Anime List
-    url: https://list.kadantte.moe
-  - name: Manga List
-    url: https://list.kadantte.moe/?type=manga
+#  - name: Anime List
+#    url: https://list.kadantte.moe
+#  - name: Manga List
+#    url: https://list.kadantte.moe/?type=manga
   - name: My Resume
     url: https://kadantte.moe/cv/
   - name: CANNAFLEX
     url: https://cannaflex.ma
-  - name: CANNAFLEX-PHARMACIE
-    url: https://cannaflexpharmacie.com
+#  - name: CANNAFLEX-PHARMACIE
+#    url: https://cannaflexpharmacie.com
   - name: Why-Inside Me CDN
     url: https://cdn.why-inside.me
 #  - name: AnimeChan
