@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
     "time": 294,
-    "timeDay": 478,
-    "timeWeek": 345,
-    "timeMonth": 295,
+    "timeDay": 279,
+    "timeWeek": 356,
+    "timeMonth": 299,
     "timeYear": 300,
     "dailyMinutesDown": {
       "2025-12-12": 557,
@@ -30,16 +30,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.why-inside.me.ico",
     "slug": "why-inside-me",
     "status": "up",
-    "uptime": "95.98%",
+    "uptime": "95.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.08%",
     "time": 931,
-    "timeDay": 824,
-    "timeWeek": 789,
-    "timeMonth": 769,
-    "timeYear": 794,
+    "timeDay": 1028,
+    "timeWeek": 811,
+    "timeMonth": 785,
+    "timeYear": 795,
     "dailyMinutesDown": {
       "2025-11-17": 29,
       "2025-11-08": 377,
@@ -76,10 +76,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.23%",
-    "time": 100,
-    "timeDay": 128,
-    "timeWeek": 135,
-    "timeMonth": 107,
+    "time": 101,
+    "timeDay": 196,
+    "timeWeek": 133,
+    "timeMonth": 112,
     "timeYear": 107,
     "dailyMinutesDown": {
       "2025-12-12": 557,
@@ -102,9 +102,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.47%",
     "time": 690,
-    "timeDay": 653,
-    "timeWeek": 607,
-    "timeMonth": 592,
+    "timeDay": 680,
+    "timeWeek": 624,
+    "timeMonth": 602,
     "timeYear": 655,
     "dailyMinutesDown": {
       "2025-11-17": 29,
@@ -126,8 +126,7 @@
       "2025-07-11": 115,
       "2025-07-10": 752,
       "2025-07-09": 30,
-      "2025-03-01": 145,
-      "2025-01-16": 434
+      "2025-03-01": 145
     }
   },
   {
@@ -142,9 +141,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.48%",
     "time": 564,
-    "timeDay": 476,
-    "timeWeek": 382,
-    "timeMonth": 380,
+    "timeDay": 495,
+    "timeWeek": 396,
+    "timeMonth": 387,
     "timeYear": 549,
     "dailyMinutesDown": {
       "2025-11-17": 28,
@@ -168,8 +167,7 @@
       "2025-07-10": 753,
       "2025-07-09": 29,
       "2025-03-01": 144,
-      "2025-02-24": 28,
-      "2025-01-16": 433
+      "2025-02-24": 28
     }
   }
 ]
