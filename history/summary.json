@@ -31,7 +31,7 @@
     "slug": "why-inside-me",
     "status": "up",
     "uptime": "95.98%",
-    "uptimeDay": "61.50%",
+    "uptimeDay": "61.53%",
     "uptimeWeek": "91.59%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "97.97%",
@@ -98,7 +98,7 @@
     "slug": "cannaflex",
     "status": "up",
     "uptime": "98.38%",
-    "uptimeDay": "61.51%",
+    "uptimeDay": "61.53%",
     "uptimeWeek": "91.59%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "98.39%",
@@ -138,7 +138,7 @@
     "slug": "why-inside-me-cdn",
     "status": "up",
     "uptime": "98.47%",
-    "uptimeDay": "61.51%",
+    "uptimeDay": "61.53%",
     "uptimeWeek": "91.59%",
     "uptimeMonth": "98.06%",
     "uptimeYear": "98.41%",
@@ -179,18 +179,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/play.tomorrow.ma.ico",
     "slug": "tomorrow-systems-server",
     "status": "down",
-    "uptime": "53.53%",
-    "uptimeDay": "53.53%",
-    "uptimeWeek": "53.53%",
-    "uptimeMonth": "53.53%",
-    "uptimeYear": "53.53%",
+    "uptime": "38.33%",
+    "uptimeDay": "38.33%",
+    "uptimeWeek": "38.33%",
+    "uptimeMonth": "38.33%",
+    "uptimeYear": "38.33%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-29": 0
+      "2026-01-29": 1
     }
   }
 ]
