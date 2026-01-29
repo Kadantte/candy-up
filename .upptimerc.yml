@@ -21,6 +21,8 @@ sites:
 #    url: https://cannaflexpharmacie.com
   - name: Why-Inside Me CDN
     url: https://cdn.why-inside.me
+  - name: TOMORROW SYSTEMS - SERVER
+    url: https://play.tomorrow.ma
 #  - name: AnimeChan
 #    url: https://anichan.kadantte.moe
 #  - name: nHentai API
