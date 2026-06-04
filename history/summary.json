@@ -104,16 +104,16 @@
     "url": "https://cannaflex.ma",
     "icon": "https://icons.duckduckgo.com/ip3/cannaflex.ma.ico",
     "slug": "cannaflex",
-    "status": "down",
-    "uptime": "98.41%",
-    "uptimeDay": "95.79%",
-    "uptimeWeek": "99.40%",
-    "uptimeMonth": "94.28%",
-    "uptimeYear": "97.91%",
+    "status": "up",
+    "uptime": "98.40%",
+    "uptimeDay": "94.97%",
+    "uptimeWeek": "99.28%",
+    "uptimeMonth": "94.26%",
+    "uptimeYear": "97.90%",
     "time": 701,
-    "timeDay": 415,
-    "timeWeek": 671,
-    "timeMonth": 698,
+    "timeDay": 405,
+    "timeWeek": 639,
+    "timeMonth": 688,
     "timeYear": 647,
     "dailyMinutesDown": {
       "2025-07-10": 752,
@@ -143,7 +143,7 @@
       "2026-05-27": 76,
       "2026-05-26": 1440,
       "2026-05-25": 771,
-      "2026-06-04": 61
+      "2026-06-04": 72
     }
   },
   {
