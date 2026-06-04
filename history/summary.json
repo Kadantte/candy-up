@@ -106,10 +106,10 @@
     "slug": "cannaflex",
     "status": "down",
     "uptime": "98.41%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "94.42%",
-    "uptimeYear": "97.92%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "94.28%",
+    "uptimeYear": "97.91%",
     "time": 701,
     "timeDay": 415,
     "timeWeek": 671,
@@ -143,7 +143,7 @@
       "2026-05-27": 76,
       "2026-05-26": 1440,
       "2026-05-25": 771,
-      "2026-06-04": 0
+      "2026-06-04": 61
     }
   },
   {
